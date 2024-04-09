@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 300010;//点数
-const int M = 600010;//边数
+const int N = 100010;//点数
+const int M = 200010;//边数
 
 /*
  * !!!!!!!!!（重要）：head[a]表示以a为父亲节点的最后一条边的编号是head[a]
