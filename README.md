@@ -1,1 +1,2 @@
 # algorithm
+[math]abcde[math]
