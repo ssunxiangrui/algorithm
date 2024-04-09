@@ -5,7 +5,7 @@ const int N = 300010;
 const int M = 600010;
 
 int head[N], nxt[M], to[M], w[M];
-int E, n;
+int E;
 
 void init() {
   E = 0;
