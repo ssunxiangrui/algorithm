@@ -12,7 +12,7 @@ const int M = 600010;//边数
  * w[E]表示编号为E的边的边权是w[E]
  */
 int head[N], nxt[M], to[M], w[M];
-int E, n;
+int E;
 
 //初始化
 void init() {
