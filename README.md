@@ -1,2 +1,2 @@
 # algorithm
-[math]abcde[math]
+**这里有很多的算法模板**
