@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 300010;
-const int M = 600010;
+const int N = 100010;
+const int M = 200010;
 
 int head[N], nxt[M], to[M], w[M];
 int E;
