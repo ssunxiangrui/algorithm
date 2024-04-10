@@ -45,7 +45,7 @@ int main() {
   init();
   int n;
   scanf("%d", &n);
-  for (int i = 0; i < n - 1; i++) {//这里以一棵树举例
+  for (int i = 1; i < n; i++) {//这里以一棵树举例
     int a, b, c;
     scanf("%d%d%d", &a, &b, &c);
     add(a, b, c);
