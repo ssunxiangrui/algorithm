@@ -16,7 +16,7 @@ void add(int a, int b, int c) {
 }
 
 //遍历
-int find(int u) {
+int dfs(int u) {
   for (int i = head[u]; i != -1; i = nxt[i]) {
     ......
   }
