@@ -26,7 +26,7 @@ int main() {
   init();
   int n;
   scanf("%d", &n);
-  for (int i = 0; i < n - 1; i++) {
+  for (int i = 1; i < n; i++) {
     int a, b, c;
     scanf("%d%d%d", &a, &b, &c);
     add(a, b, c);
