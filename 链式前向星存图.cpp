@@ -4,6 +4,7 @@
  * head[u]表示最后以u为父亲节点的最后一条边是head[u]
  * nxt[E]表示编号为E的边的上一条边的编号是nxt[E]
  */
+
 int head[N], nxt[M], to[M], w[M];
 int E;
 
